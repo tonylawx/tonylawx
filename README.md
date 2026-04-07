@@ -2,7 +2,7 @@
 
 **Programming skills:**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,vue,tailwind,prisma,go,gin,postgres,redis,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,bun,react,nextjs,tailwind,go,prisma,postgres,redis,docker)](https://skillicons.dev)
 
 **Language skills:**
 Cantonese, Mandarin, English
