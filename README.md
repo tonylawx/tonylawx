@@ -23,7 +23,7 @@
 **Language skills:**
 Cantonese, Mandarin, English
 
-[![Tony's GitHub stats](./profile/stats.svg)](https://github.com/tonylawx)
+[![Tony's GitHub stats](./profile/stats.svg?v=2)](https://github.com/tonylawx)
 <!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
