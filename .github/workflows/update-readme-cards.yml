@@ -20,7 +20,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN || secrets.METRICS_TOKEN || secrets.GH_PAT || secrets.TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
