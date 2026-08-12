@@ -6,13 +6,13 @@
   <img title="Codex" alt="Codex" src="https://api.iconify.design/simple-icons/openai.svg?color=%236E7681" width="40" height="40" />
   <img title="Claude" alt="Claude" src="https://api.iconify.design/simple-icons/claude.svg?color=%23D97757" width="40" height="40" />
   <img title="Cursor" alt="Cursor" src="https://api.iconify.design/simple-icons/cursor.svg?color=%236E7681" width="40" height="40" />
-  <img title="DeepSeek" alt="DeepSeek" src="https://api.iconify.design/simple-icons/deepseek.svg?color=%234D6BFE" width="40" height="40" />
   <img title="TypeScript" alt="TypeScript" src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6" width="40" height="40" />
   <img title="Bun" alt="Bun" src="https://api.iconify.design/simple-icons/bun.svg?color=%236E7681" width="40" height="40" />
   <img title="React" alt="React" src="https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB" width="40" height="40" />
   <img title="Next.js" alt="Next.js" src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%236E7681" width="40" height="40" />
   <img title="Tailwind CSS" alt="Tailwind CSS" src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%2306B6D4" width="40" height="40" />
   <img title="Hono" alt="Hono" src="https://api.iconify.design/simple-icons/hono.svg?color=%23E36002" width="40" height="40" />
+  <img title="Java" alt="Java" src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23ED8B00" width="40" height="40" />
   <img title="Go" alt="Go" src="https://api.iconify.design/simple-icons/go.svg?color=%2300ADD8" width="40" height="40" />
   <img title="Prisma" alt="Prisma" src="https://api.iconify.design/simple-icons/prisma.svg?color=%236E7681" width="40" height="40" />
   <img title="PostgreSQL" alt="PostgreSQL" src="https://api.iconify.design/simple-icons/postgresql.svg?color=%234169E1" width="40" height="40" />
