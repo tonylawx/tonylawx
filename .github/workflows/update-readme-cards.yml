@@ -17,7 +17,7 @@ jobs:
       - name: Fetch stats card
         run: |
           mkdir -p profile
-          curl -s "https://github-readme-stats-eight-theta.vercel.app/api?username=tonylawx&show_icons=true" -o profile/stats.svg
+          curl -sf "https://github-readme-stats.vercel.app/api?username=tonylawx&show_icons=true" -o profile/stats.svg
 
       - name: Commit cards
         run: |
